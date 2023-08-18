@@ -1,0 +1,1 @@
+A Digital Image Processing package that involves Filter, Noise, comparession, extendedSegmentation, featureExtractor, frequencyFilter, histogram, pointProcessing, segmentation, shapeAnalysis, superResolution, textureAnalyzer
