@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mjdippkg"
+version = "0.1.0"
+description = ""
+authors = ["Mohammad Javadpur <mjavadpur@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.25"
+scikit-image = "^0.21.0"
+opencv-python = "^4.8.0.76"
+matplotlib = "^3.7.2"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
